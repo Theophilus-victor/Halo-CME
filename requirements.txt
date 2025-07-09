@@ -1,0 +1,9 @@
+cdflib
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+plotly
+streamlit  # optional
