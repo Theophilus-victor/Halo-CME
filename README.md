@@ -86,7 +86,7 @@ graph TD;
 streamlit run scripts/streamlit_app.py
 ```
 
-![Output](img/dashboard.png)
+![Output](dashboard.png)
 
 ---
 
